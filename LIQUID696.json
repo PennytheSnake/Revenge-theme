@@ -1,0 +1,60 @@
+{
+  "name": "LIQUID696 - macOS Glass",
+  "description": "Liquid glass theme with macOS icons and frosted glass panels",
+  "authors": [
+    {
+      "name": "Kateri",
+      "id": "0"
+    }
+  ],
+  "version": "1.0.0",
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#00000000", "#00000000"],
+    "BACKGROUND_SECONDARY": ["#0b061455", "#0b061455"],
+    "BACKGROUND_SECONDARY_ALT": ["#140a2270", "#140a2270"],
+    "BACKGROUND_TERTIARY": ["#07030e80", "#07030e80"],
+    "BACKGROUND_FLOATING": ["#160a2595", "#160a2595"],
+    "BACKGROUND_ACCENT": ["#ff1c6860", "#ff1c6860"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#00000000", "#00000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#0b061455", "#0b061455"],
+    "CHAT_BACKGROUND": ["#00000000", "#00000000"],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#140a2265", "#140a2265"],
+    "CARD_PRIMARY_BG": ["#1c0f2f55", "#1c0f2f55"],
+    "CARD_SECONDARY_BG": ["#0b061455", "#0b061455"],
+    "INPUT_BACKGROUND": ["#140a2275", "#140a2275"],
+    "MODAL_BACKGROUND": ["#0d0517b5", "#0d0517b5"],
+    "HEADER_PRIMARY": ["#ece2fa", "#ece2fa"],
+    "HEADER_SECONDARY": ["#d0c3e6", "#d0c3e6"],
+    "TEXT_NORMAL": ["#ece2fa", "#ece2fa"],
+    "TEXT_MUTED": ["#8e7ca7", "#8e7ca7"],
+    "TEXT_LINK": ["#00d4ff", "#00d4ff"],
+    "INTERACTIVE_NORMAL": ["#cbbad9", "#cbbad9"],
+    "INTERACTIVE_HOVER": ["#ffffff", "#ffffff"],
+    "INTERACTIVE_ACTIVE": ["#ff1c68", "#ff1c68"],
+    "INTERACTIVE_MUTED": ["#5a4c6e", "#5a4c6e"]
+  },
+  "rawColors": {
+    "BRAND_500": "#ff1c68",
+    "BRAND_560": "#d41253"
+  },
+  "background": {
+    "url": "https://files.catbox.moe/xt2fjo.jpg",
+    "blur": 0,
+    "alpha": 0.85
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "https://raw.githubusercontent.com/nexpid/VendettaThemesPlus/main/iconpacks/sf-symbols.json",
+    "icons": {
+      "ic_message_24px": "#ff1c68",
+      "ic_search_24px": "#ece2fa",
+      "ic_call_24px": "#72e5a9",
+      "ic_video_24px": "#00d4ff",
+      "ic_sidebar_notifications": "#ff1c68"
+    },
+    "custom": {
+      "mentionLineColor": "#ff1c68"
+    }
+  }
+}
